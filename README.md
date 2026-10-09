@@ -118,11 +118,3 @@ No se fabrica deliberadamente ningún error `500`.
 ```
 
 La API devuelve `400 Bad Request`.
-
-## Video
-
-Antes de entregar, agregar al PDF el enlace público o de solo visualización al video de Google Drive.
-
-## GitHub
-
-Antes de entregar, publicar este proyecto en un repositorio público y agregar aquí el enlace.
