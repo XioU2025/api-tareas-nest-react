@@ -126,14 +126,3 @@ Antes de entregar, agregar al PDF el enlace público o de solo visualización al
 ## GitHub
 
 Antes de entregar, publicar este proyecto en un repositorio público y agregar aquí el enlace.
-
-## Guion recomendado para el video — máximo 3 minutos
-
-1. **0:00–0:25** — Abrir Swagger en `/api/docs` y mostrar las rutas.
-2. **0:25–0:50** — Ejecutar un POST inválido desde Swagger y mostrar el `400`.
-3. **0:50–1:25** — Abrir React y crear una tarea.
-4. **1:25–1:55** — Modificar la tarea y comprobar que la interfaz usa la respuesta de la API.
-5. **1:55–2:20** — Eliminar una tarea.
-6. **2:20–2:40** — Intentar obtener una tarea inexistente para mostrar `404`.
-7. **2:40–3:00** — Abrir DevTools > Network y mostrar GET/POST/PATCH/DELETE.
-
